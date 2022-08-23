@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemy
+  - Pause
+  - PowerGage
+  - Attack2
+  - Attack1
+  - Attack3
+  - RetryLevel
+  - BackToTitle
+  - FxTemporaire
+  - UIRoot
+  - GameOverUI
+  - EnemyIce
+  - SnowBall
+  - BGM
+  - SE
+  - SEManager
+  - Canvas
+  - Options
+  - CameraChase
+  - SnowBallHit
+  - Tenjyou
+  - stageManager
+  - BGM1
+  - BGM2
+  - BGM3
+  - Activator
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Ground
+  - PostProcessing
+  - Ice
+  - EnemyIce
+  - Iceblock
+  - Tenjyou
+  - Tsurara
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
